@@ -1,11 +1,14 @@
 // gta6-clipper-01 entry (Node 22, standard library only).
 // Copies VIDEO.json from the repository root to /output/VIDEO.json,
 // where the gate reads it. That is all the program does.
-// The video itself is the entry: Lucia robs a store in Vice City,
-// flees with a 2-star wanted level, hides under the highway, and
-// gets tackled by the police — cut into a vertical clip and uploaded
-// to YouTube as a public Short with the bounty's line and the play
-// code in its description.
+// The video itself is the entry: a cut of MiawAug's GTA 6 launch-day
+// live stream (19 Nov 2026) — he steals his Phoenix back from the
+// police impound, the cops chase him out of the yard, the car gets
+// wrecked while he laughs, and he ends up WASTED. Cut into a vertical
+// 1080x1920 Short with his facecam as picture-in-picture, Indonesian
+// captions, and the make.fun pitch in the last 10 seconds. The clip is
+// uploaded to YouTube as a public Short with the bounty's line and the
+// play code in its description.
 // Outside the grader's container, MAKEFUN_BOT_DIR and
 // MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts

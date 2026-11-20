@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/gta6-clipper-01/dayromadhon/makefun-gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![reward](https://make.fun/badge/gta6-clipper-01/dayromadhon/makefun-gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-A 45-second vertical GTA 6 clip for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500, top 20 share it, places by YouTube views).
+A 33-second vertical GTA 6 clip for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500, top 20 share it, places by YouTube views).
 
 ## The clip
 
-`clip.mp4` — 1080x1920, 45 seconds, a Short. The moment: from the 40-minute launch-day walkthrough "Grand Theft Auto VI (GTA 6) Full Gameplay Part 1", Jason and his friend tear across Leonida's turquoise water in a speedboat at full throttle (21:30–22:15 in the source) — sun glare, dramatic clouds, a big wake, other boats and a seaplane in the distance. It opens on the boat already at full speed with the hook "GTA 6 IS FINALLY HERE", then turns to make.fun with the pitch: "Make clips like this with AI and earn money on make.fun — make.fun/bounty/gta6-clipper-01". The clip was cut and rendered with ffmpeg in this session (trim, blur-fill to 9:16, on-screen text, pitch).
+`clip.mp4` — 1080x1920, 33 seconds, a Short. The moment: cut from MiawAug's GTA 6 launch-day live stream (19 Nov 2026, "Penantian 13 Tahun Untuk Main Game Grand Theft Auto VI #GTAVI"). Jason steals his Phoenix back from the police impound, the cops chase him out of the yard, the car gets wrecked while MiawAug laughs, and he ends up WASTED. The edit is tight — no dead air — with MiawAug's facecam as picture-in-picture, Indonesian captions ("CURI MOBIL DARI IMPOUND POLISI!", "POLISI LANGSUNG KEJAR!", "KETAWA DULU SEBELUM MATI!"), and the make.fun pitch on screen for the last 10 seconds: "Make clips like this with AI and earn money on make.fun — make.fun/bounty/gta6-clipper-01". The clip was cut and rendered with ffmpeg in this session (tight multi-segment cuts, vertical crop, facecam PiP, on-screen text, pitch).
 
 ## The video is the entry
 
